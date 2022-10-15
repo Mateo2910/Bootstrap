@@ -1,0 +1,201 @@
+body{
+    background-color: dimgray;
+}
+#col1{
+    float: left;
+}
+#cols1{
+    float: left;
+   font-family:Arial, Helvetica, sans-serif ;
+}
+#cols2{
+    float: left;
+}
+#cols3{
+    float: left;
+}
+#cols4{
+    float: left;
+}
+#cols5{
+    float: left;
+}
+@media (max-width: 992px) {
+    #img {
+        height: 700px;
+    }
+}
+#colss1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-align: start;
+
+}
+#cols6 {
+    text-align: center;
+}
+#cols7 {
+    text-align: center;
+}
+#cols8 {
+    text-align: center;
+}
+#cols9 {
+    text-align: center;
+}
+#cols10 {
+    text-align: center;
+}
+#cols11 {
+    text-align: center;
+}
+#cols12 {
+    text-align: center;
+}
+#cols13 {
+    text-align: center;
+}
+#colss2 {
+    position: absolute;
+    color: white;
+    text-align: start;
+}
+#colss3 {
+    position: absolute;
+    color: saddlebrown;
+}
+#colss4 {
+    position: absolute;
+    color: saddlebrown;
+}
+#mod1 {
+    float: left;
+}
+#mod2 {
+    float: left;
+}
+#tex1 {
+    text-align: center;
+}
+#tex2 {
+    text-align: center;
+}
+#tex3 {
+    text-align: center;
+}
+#tex4 {
+    text-align: center;
+}
+#tex5 {
+    text-align: center;
+}
+#tex6 {
+    text-align: center;
+}
+#tex7 {
+    text-align: center;
+}
+#tex8 {
+    text-align: center;
+}
+#tex9 {
+    text-align: center;
+}
+#tex10 {
+    text-align: center;
+}
+#tex11 {
+    text-align: center;
+}
+#tex12 {
+    text-align: center;
+}
+#tex13 {
+    text-align: center;
+}
+#tex14 {
+    text-align: center;
+}
+#tex15 {
+    text-align: center;
+}
+#tex16 {
+    text-align: center;
+}
+#tex17 {
+    text-align: center;
+}
+#tex18 {
+    text-align: center;
+}
+#tex19 {
+    text-align: center;
+}
+#tex20 {
+    text-align: center;
+}
+#tex21 {
+    text-align: center;
+}
+#tex22 {
+    text-align: center;
+}
+#tex23 {
+    text-align: center;
+}
+#tex24 {
+    text-align: center;
+}
+#button1 {
+    float: right;
+}
+label{ color:grey;}
+input[type = "radio"]{ display:none;}
+.clasificacion{
+    direction: rtl;/* right to left */
+    unicode-bidi: bidi-override;/* bidi de bidireccional */
+}
+label:hover{color:orange;}
+label:hover ~ label{color:orange;}
+input[type = "radio"]:checked ~ label{color:orange;}
+#form {
+    width: 250px;
+    margin: 0 auto;
+    height: 50px;
+  }
+  
+  #form p {
+    text-align: center;
+  }
+  
+  #form label {
+    font-size: 20px;
+  }
+  
+  input[type="radio"] {
+    display: none;
+  }
+  
+  label {
+    color: grey;
+  }
+  
+  .clasificacion {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+  }
+  
+  label:hover,
+  label:hover ~ label {
+    color: orange;
+  }
+  
+  input[type="radio"]:checked ~ label {
+    color: orange;
+  }
+  .card {
+    text-align: center;
+  }
+#tit{
+    text-align: center;
+}

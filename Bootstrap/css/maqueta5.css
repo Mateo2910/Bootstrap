@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#col1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(235, 109, 109);
+    float: left;
+    border-right: 50px solid white;
+}
+#col2 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(235, 109, 109);
+    float: left;
+
+}
+#col3 {
+    float: left;
+
+}
+#cols1 {
+    float: left;
+
+}
+#cols2 {
+    float: left;
+
+}
+#col4 {
+    float: left;
+
+}
+#col5 {
+    float: left;
+
+}
+#col6 {
+    float: left;
+
+}
+#col7 {
+    float: left;
+
+}
+#col8 {
+    float: left;
+}

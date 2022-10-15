@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+#col1{
+    background-color: rgb(39, 35, 235);
+    float: left;
+    border: 1px solid white;
+}
+#col2{
+    float: left;
+    border: 1px solid white;
+}
+#c1{
+    background-color: rgb(67, 83, 228);
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+}
+#c2{
+    background-color: rgb(95, 32, 243);
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+}
+#c3{
+    background-color: rgb(95, 32, 243);
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+}
+#col3{
+    background-color: rgb(21, 8, 138);
+    float: left;
+    border: 1px solid white;
+    height: 202px;
+}
+#col4{
+    background-color: rgb(69, 63, 146);
+    float: left;
+    border: 1px solid white;
+}
