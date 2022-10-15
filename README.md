@@ -1,6 +1,6 @@
 # Bootstrap
 Maquetas y pagina realizada con Bootstrap
-# EjerciciosHTML-CSS
+# Maquetas 
 
 <sub>
   
